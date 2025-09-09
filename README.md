@@ -1,3 +1,11 @@
+The EASIEST way to run:
+1. Download .csv and .py
+2. Run .py
+3. Enter your first result in terminal
+
+
+
+
 # wordle-bot
 Assistant bot that suggests optimal guesses based on feedback patterns.  
 Wordle 3-Turn Solver (SOARE opening)
