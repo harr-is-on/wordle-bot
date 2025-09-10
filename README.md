@@ -1,5 +1,5 @@
 The EASIEST way to run:
-1. Download .csv and .py
+1. Download .csv and .py and .txt
 2. Run .py
 3. Enter your first result in terminal
 
